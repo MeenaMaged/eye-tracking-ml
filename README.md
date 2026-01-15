@@ -4,7 +4,7 @@
 
 A real-time webcam-based eye tracking system implementing gaze estimation, blink detection, and eye movement classification using machine learning algorithms built entirely from scratch.
 
-**GitHub Repository:** `https://github.com/YOUR_USERNAME/eye-tracking-ml`
+**GitHub Repository:** `https://github.com/MeenaMaged/eye-tracking-ml`
 
 ---
 
